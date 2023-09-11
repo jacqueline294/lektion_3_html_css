@@ -1,0 +1,38 @@
+body{
+    background-color:cadetblue;
+}
+
+
+p{background-color: beige;
+
+}
+
+h1{
+    color: blue;
+    font-family:rubik iso;
+}
+
+h1{
+    text-align: center;
+}
+#p1{
+    color:darkgoldenrod;
+    font-family: sans-serif
+}
+
+#p2{border-style: outset;
+    border-color: gold;
+    border-width: 5px;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+
+
+.odd{
+    color: darkturquoise;
+}
+.even{
+    color:black;
+}
